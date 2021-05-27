@@ -28,6 +28,6 @@ public class task1Solution {
         int k = 7;
         String day = "Sun";
 
-        System.out.print(dayCalculator(day, dayCounter(k)));
+        System.out.println(dayCalculator(day, dayCounter(k)));
     }
 }
