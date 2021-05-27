@@ -6,7 +6,7 @@ Given S = "Sat" and K = 23, the function should return "Mon".*/
 
 package round2;
 
-public class Solution {
+public class task1Solution {
 
     public static int dayCounter(int daysLater) {
         return daysLater % 7;
