@@ -25,8 +25,8 @@ public class task1Solution {
 
 
     public static void main(String[] args) {
-        int k = 7;
-        String day = "Sun";
+        int k = 2;
+        String day = "Wed";
 
         System.out.println(dayCalculator(day, dayCounter(k)));
     }
